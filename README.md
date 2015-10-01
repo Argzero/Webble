@@ -1,5 +1,4 @@
 # Webble
+Tower defense / survival hybrid game - Written in Processing / Java
 
-
-@Tower defense / survival hybrid game - Written in Processing / Java 
-Currentlyporting to both Javascript and Android
+Currently porting to both Javascript and Android
